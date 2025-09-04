@@ -1,4 +1,4 @@
-// Enhanced Client.java - Copy this into your Client.java file
+
 import java.io.*;
 import java.util.Scanner;
 import java.net.Socket;
